@@ -1,6 +1,6 @@
 # gsheets
 
-Following this guide: https://handsondataviz.org/github-pages.html 
+Following this guide: [https://handsondataviz.org/github-pages.html](https://handsondataviz.org/github-pages.html)
 1. Create Google sheets workbook, with data and a chart
 2. Chart dropdown > Publish > Embed (copy iframe)
 3. Create new GitHub repo, initialize with Readme
