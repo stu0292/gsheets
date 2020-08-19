@@ -11,3 +11,10 @@ Following this guide: [https://handsondataviz.org/github-pages.html](https://han
 ## The embedded chart
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFvNz5T4nDe1ouOYT9y8uDKLE6EelDiYbaHBp1kmzV5NZIqbqCYqChx2Timro1AlknShNtBzmATEms/pubhtml?gid=668831242&amp;single=true&amp;widget=true&amp;headers=false"  style="width:100%;height:100%;" ></iframe>
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 66.6%;"> 
+  <iframe class="model" src="https://sketchfab.com/models/442c548d94744641ba279ae94b5f45ec/embed" 
+          frameborder="0" allowfullscreen=""
+          style="position: absolute; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%">
+  </iframe>
+</div>
