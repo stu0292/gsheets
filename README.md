@@ -10,4 +10,4 @@ Following this guide: [https://handsondataviz.org/github-pages.html](https://han
 
 ## The embedded chart
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFvNz5T4nDe1ouOYT9y8uDKLE6EelDiYbaHBp1kmzV5NZIqbqCYqChx2Timro1AlknShNtBzmATEms/pubhtml?gid=668831242&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFvNz5T4nDe1ouOYT9y8uDKLE6EelDiYbaHBp1kmzV5NZIqbqCYqChx2Timro1AlknShNtBzmATEms/pubhtml?gid=668831242&amp;single=true&amp;widget=true&amp;headers=false"  style="position:absolute;top:0;left:0;width:100%;height:100%;" ></iframe>
